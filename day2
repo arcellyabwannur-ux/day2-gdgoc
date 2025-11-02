@@ -3,7 +3,7 @@ uses crt;
 
 var
     N, i: integer;    // N = banyaknya suku deret, i = variabel penghitung loop
-    a, b, c: integer; // a dan b = dua suku awal Fibonacci, c = hasil penjumlahan a + b
+    a, b, c: integer; // a dan b = dua suku awal Fibonacci, c = hasil penjumlahan a + b 
     total: integer;   // total = penjumlahan seluruh suku Fibonacci yang ditampilkan
 
 begin
